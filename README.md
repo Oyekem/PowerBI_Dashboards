@@ -2,4 +2,3 @@
 
 
 
-![healthcare dashboard](https://github.com/user-attachments/assets/75acc93d-5ecb-42d4-b0cd-181e10f016a3)
